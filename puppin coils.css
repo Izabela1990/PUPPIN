@@ -1,0 +1,38 @@
+h1{
+    color:black;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    display: inline-block;
+    background-color: ivory;
+    font-family: sans-serif;
+    font-style: italic;
+
+}
+
+#paragraf{
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+    padding: 15em;
+    
+}
+
+#img{
+    display: inline-block;
+    height: 30%;
+    width: 20%;
+    margin-left: 3em;
+    padding-bottom: 3em;
+    
+}
+
+nav{
+    display: inline-block;
+    width: 400px;
+    height: 100px;
+    padding: 3em;
+    
+}

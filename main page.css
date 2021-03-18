@@ -1,0 +1,31 @@
+h1{
+    color:black;
+    margin-top: 3em;
+    margin-left: 10em;
+    font-weight: bold;
+}
+
+.nav{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    padding: 3em;
+    
+}
+
+.dreapta{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    padding: 3em;
+}
+
+body{
+    background-color: ivory;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+img{
+    margin: 2em;
+}
